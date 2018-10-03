@@ -1,0 +1,9 @@
+Flask==1.0.2
+
+#linting
+autopep8
+pylint
+
+#extensions
+Flask-DotEnv
+Flask-SQLAlchemy
