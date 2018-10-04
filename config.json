@@ -1,0 +1,18 @@
+{
+  "DEFAULT": {
+    "ENV": "default",
+    "DEBUG": false
+  },
+  "DEVELOPMENT": {
+    "ENV": "developments",
+    "DEBUG": true
+  },
+  "TEST": {
+    "ENV": "test",
+    "DEBUG": true
+  },
+  "PRODUCTION": {
+    "ENV": "production",
+    "DEBUG": false,
+  }
+}
